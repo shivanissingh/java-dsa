@@ -17,5 +17,7 @@ class ifElse {
         ifElse obj = new ifElse();
 
         obj.isAdult(age);
+
+        sc.close();
     }
 }
