@@ -31,5 +31,7 @@ class BuildArrayFromPermutation {
             System.out.print(ans[i] + " ");
         }
 
+        sc.close();
+
     } 
 }
